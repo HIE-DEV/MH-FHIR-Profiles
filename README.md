@@ -5,3 +5,5 @@ In the top-right, click 'download' and save the .ZIP to your machine. It's highl
 
 This GitHub repo cannot provide a copy of the Clarotech FHIRCheck validator as it's a third party software program, which is free to download from:
 http://clarotech.co.uk/products/tool-fhir-check/
+
+The Clarotech validator is a .exe, and so is only designed to work for Windows, however, given it appears to be a lightweight application, Linux users may be able to get it running with WINE.
